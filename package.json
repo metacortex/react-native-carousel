@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/nick/react-native-carousel",
   "dependencies": {
-    "react-native": "^0.5.0"
+    "react-native": ">=0.5.0"
   }
 }
